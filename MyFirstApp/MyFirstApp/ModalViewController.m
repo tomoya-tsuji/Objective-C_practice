@@ -28,6 +28,7 @@
 
   //画面を閉じる処理
     [self dismissViewControllerAnimated:YES completion:nil];
+    
 }
 
 /*
